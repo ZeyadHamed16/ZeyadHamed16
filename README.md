@@ -1,10 +1,10 @@
-<h1 align="center">
+<div align="center">
 <img alt="masterGIF" width="1000" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
-</h1>
+</div>
 <h1 align="center">Hi 👋, I'm Zeyad Hamed</h1>
-<h1 align="center">
+<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Antonio&weight=600&size=45&pause=1000&color=1F8000&center=true&vCenter=true&random=false&width=435&height=100&lines=Backend+Developer" alt="Typing SVG" />
-</h1>
+</div>
 <img align="right" alt="CodingGIF" width="400" src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif">
 
 - 🔭 I’m currently working on **Trying to create websites using Wordpress**
