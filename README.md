@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **backend development using Laravel and PHP**.
 
-- 🌱 I’m currently learning **advanced Laravel concepts, Docker, and scalable backend architecture**.
+- 🌱 I’m currently learning **advanced Laravel concepts and scalable backend architecture**.
 
 - 📫 How to reach me **zeyad0hamed1@gmail.com**
 
