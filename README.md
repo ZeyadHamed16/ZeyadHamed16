@@ -17,12 +17,6 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/zeyad-hamed-backend-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeyad-hamed-backend-developer" height="30" width="40" /></a>
-<a href="https://fb.com/zeyad.hamed.96995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zeyad.hamed.96995" height="30" width="40" /></a>
-<a href="https://instagram.com/el_zeyado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="el_zeyado" height="30" width="40" /></a>
-</p>
 
 
 
