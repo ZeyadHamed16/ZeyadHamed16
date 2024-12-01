@@ -7,13 +7,13 @@
 </div>
 <img align="right" alt="CodingGIF" width="400" src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif">
 
-- 🔭 I’m currently working on **backend development using Laravel and PHP**.
+- I’m currently working on **backend development using Laravel and PHP**.
 
-- 🌱 I’m currently learning **advanced Laravel concepts and scalable backend architecture**.
+- I’m currently learning **advanced Laravel concepts and scalable backend architecture**.
 
-- 📫 How to reach me **zeyad0hamed1@gmail.com**
+- How to reach me **zeyad0hamed1@gmail.com**
 
-- 📄 Know about my experiences : <a href="https://drive.google.com/file/d/1cAMui0P1CzA9vadTCDyOd0sLoMHQzFwI/view?usp=sharing" target="blank"> My CV </a>
+- Know about my experiences : <a href="https://drive.google.com/file/d/1cAMui0P1CzA9vadTCDyOd0sLoMHQzFwI/view?usp=sharing" target="blank"> My CV </a>
 
 
 
