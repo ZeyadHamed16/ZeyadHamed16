@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences : <a href="https://drive.google.com/file/d/1cAMui0P1CzA9vadTCDyOd0sLoMHQzFwI/view?usp=sharing" target="blank"> My CV </a>
 
----
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,13 +24,13 @@
 <a href="https://instagram.com/el_zeyado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="el_zeyado" height="30" width="40" /></a>
 </p>
 
----
+
 
 ## Connect with Me :
 
 <a href="https://linkedin.com/in/zeyad-hamed-backend-developer" target="_blank"><img src="https://img.shields.io/badge/-Zeyad%20Hamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
----
+
 
 ## 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
