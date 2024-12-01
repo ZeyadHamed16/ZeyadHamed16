@@ -17,7 +17,7 @@
 
 
 
-<p align="left">Connect with me:</p>
+<h1 align="left"> **Connect with me:** </h1>
 
 <a href="https://linkedin.com/in/zeyad-hamed-backend-developer" target="_blank">
   <img src="https://img.shields.io/badge/-Zeyad%20Hamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
@@ -30,7 +30,7 @@
 </a>
 
 
-## Languages and Tools:
+### Languages and Tools:
 
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)&nbsp;
