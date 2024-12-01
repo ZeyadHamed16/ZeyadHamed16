@@ -26,26 +26,36 @@
 
 
 
-## Connect with Me :
+## Connect with Me:
 
-<a href="https://linkedin.com/in/zeyad-hamed-backend-developer" target="_blank"><img src="https://img.shields.io/badge/-Zeyad%20Hamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/zeyad-hamed-backend-developer" target="_blank">
+  <img src="https://img.shields.io/badge/-Zeyad%20Hamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="https://www.hackerrank.com/zeyad0hamed1" target="_blank">
+  <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/thee_zeyad/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
 
 
+## Languages and Tools:
 
-## 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
- ![Redux.js](https://img.shields.io/badge/-Redux-05122A?style=plastic&logo=Redux)
-  ![React-Router.js](https://img.shields.io/badge/-React_Router-05122A?style=plastic&logo=react-router)
-  ![React-Query.js](https://img.shields.io/badge/-React_Query-05122A?style=plastic&logo=react-query)
-  ![Styled-Components.js](https://img.shields.io/badge/-Styled_Components-05122A?style=plastic&logo=styled-components)
-  ![React-Hook-Form.js](https://img.shields.io/badge/-React_Hook_Form-05122A?style=plastic&logo=react-hook-form)
-  ![Recharts.js](https://img.shields.io/badge/-Recharts-05122A?style=plastic&logo=recharts)
-  ![Supabase.js](https://img.shields.io/badge/-Supabase-05122A?style=plastic&logo=supabase)
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)&nbsp;
+
 
