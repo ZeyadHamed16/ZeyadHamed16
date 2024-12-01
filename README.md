@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **zeyad0hamed1@gmail.com**
 
-- 📄 Know about my experiences[ [https://drive.google.com/file/d/1jo6hFxxBMGPgMzkOzliow5ve9cji289y/view](https://drive.google.com/file/d/1jo6hFxxBMGPgMzkOzliow5ve9cji289y/view)](https://drive.google.com/file/d/1cAMui0P1CzA9vadTCDyOd0sLoMHQzFwI/view?usp=sharing)
+- 📄 Know about my experiences : <a href="https://drive.google.com/file/d/1cAMui0P1CzA9vadTCDyOd0sLoMHQzFwI/view?usp=sharing" target="blank"> My CV </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
