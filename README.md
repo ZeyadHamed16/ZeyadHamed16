@@ -17,7 +17,7 @@
 
 
 
-<h1 align="left">Connect with me:</h1>
+<p align="left">Connect with me:</p>
 
 <a href="https://linkedin.com/in/zeyad-hamed-backend-developer" target="_blank">
   <img src="https://img.shields.io/badge/-Zeyad%20Hamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
