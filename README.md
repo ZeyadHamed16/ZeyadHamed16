@@ -11,56 +11,41 @@
 
 - 🌱 I’m currently learning **advanced Laravel concepts, Docker, and scalable backend architecture**.
 
-- 📫 How to reach me: **zeyad0hamed1@gmail.com**
+- 📫 How to reach me **zeyad0hamed1@gmail.com**
 
-- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1cAMui0P1CzA9vadTCDyOd0sLoMHQzFwI/view?usp=sharing" target="_blank">My CV</a>
+- 📄 Know about my experiences : <a href="https://drive.google.com/file/d/1cAMui0P1CzA9vadTCDyOd0sLoMHQzFwI/view?usp=sharing" target="blank"> My CV </a>
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zeyad-hamed-backend-developer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://fb.com/zeyad.hamed.96995" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/el_zeyado" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zeyad-hamed-backend-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeyad-hamed-backend-developer" height="30" width="40" /></a>
+<a href="https://fb.com/zeyad.hamed.96995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zeyad.hamed.96995" height="30" width="40" /></a>
+<a href="https://instagram.com/el_zeyado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="el_zeyado" height="30" width="40" /></a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-<a href="https://www.arduino.cc/" target="_blank"><button>Arduino</button></a>
-<a href="https://aws.amazon.com" target="_blank"><button>AWS</button></a>
-<a href="https://getbootstrap.com" target="_blank"><button>Bootstrap</button></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"><button>C++</button></a>
-<a href="https://www.w3schools.com/cs/" target="_blank"><button>C#</button></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><button>CSS3</button></a>
-<a href="https://www.docker.com/" target="_blank"><button>Docker</button></a>
-<a href="https://dotnet.microsoft.com/" target="_blank"><button>.NET</button></a>
-<a href="https://git-scm.com/" target="_blank"><button>Git</button></a>
-<a href="https://www.w3.org/html/" target="_blank"><button>HTML5</button></a>
-<a href="https://laravel.com/" target="_blank"><button>Laravel</button></a>
-<a href="https://www.linux.org/" target="_blank"><button>Linux</button></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><button>SQL Server</button></a>
-<a href="https://www.mysql.com/" target="_blank"><button>MySQL</button></a>
-<a href="https://www.php.net" target="_blank"><button>PHP</button></a>
-<a href="https://tailwindcss.com/" target="_blank"><button>Tailwind CSS</button></a>
-</div>
+## Connect with Me :
 
-<style>
-button {
-  padding: 10px 15px;
-  margin: 5px;
-  font-size: 16px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  background-color: #f0f0f0;
-  color: #333;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
-}
+<a href="https://linkedin.com/in/zeyad-hamed-backend-developer" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Elsayed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
-button:hover {
-  background-color: #ddd;
-  color: #000;
-}
-</style>
+---
+
+## 🛠 &nbsp;Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+ ![Redux.js](https://img.shields.io/badge/-Redux-05122A?style=plastic&logo=Redux)
+  ![React-Router.js](https://img.shields.io/badge/-React_Router-05122A?style=plastic&logo=react-router)
+  ![React-Query.js](https://img.shields.io/badge/-React_Query-05122A?style=plastic&logo=react-query)
+  ![Styled-Components.js](https://img.shields.io/badge/-Styled_Components-05122A?style=plastic&logo=styled-components)
+  ![React-Hook-Form.js](https://img.shields.io/badge/-React_Hook_Form-05122A?style=plastic&logo=react-hook-form)
+  ![Recharts.js](https://img.shields.io/badge/-Recharts-05122A?style=plastic&logo=recharts)
+  ![Supabase.js](https://img.shields.io/badge/-Supabase-05122A?style=plastic&logo=supabase)
+
