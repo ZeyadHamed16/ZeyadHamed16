@@ -1,7 +1,7 @@
 <div align="center">
 <img alt="masterGIF" width="1000" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
 </div>
-<h1 align="center">👋 Zeyad Ibrahim Abdel-Halim Hamed 👋</h1>
+<h1 align="center">👋 Zeyad Ibrahim Hamed 👋</h1>
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Antonio&weight=600&size=45&pause=1000&color=1F8000&center=true&vCenter=true&random=false&width=435&height=100&lines=Backend+Developer" alt="Typing SVG" />
 </div>
@@ -11,7 +11,7 @@
 
 - I’m currently learning **advanced Laravel concepts and scalable backend architecture**.
 
-- How to reach me **zeyad0hamed1@gmail.com**
+- How to reach me **zeyadibrahimhamed@gmail.com**
 
 - Know about my experiences : <a href="https://drive.google.com/file/d/1cAMui0P1CzA9vadTCDyOd0sLoMHQzFwI/view?usp=sharing" target="blank"> My CV </a>
 
@@ -19,7 +19,7 @@
 
 <p align="left"><b>Connect with me:</b></p>
 
-<a href="https://linkedin.com/in/zeyad-hamed-backend-developer" target="_blank">
+<a href="https://www.linkedin.com/in/zeyadibrahimhamed" target="_blank">
   <img src="https://img.shields.io/badge/-Zeyad%20Hamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
 <a href="https://www.hackerrank.com/zeyad0hamed1" target="_blank">
