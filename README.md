@@ -1,6 +1,3 @@
-<div align="center">
-<img alt="masterGIF" width="1000" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
-</div>
 <h1 align="center">👋 Zeyad Ibrahim Hamed 👋</h1>
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Antonio&weight=600&size=45&pause=1000&color=1F8000&center=true&vCenter=true&random=false&width=435&height=100&lines=Backend+Developer" alt="Typing SVG" />
