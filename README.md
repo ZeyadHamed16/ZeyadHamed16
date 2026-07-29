@@ -24,9 +24,6 @@
 <a href="https://www.hackerrank.com/zeyad0hamed1" target="_blank">
   <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/thee_zeyad/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a>
 
 
 ### Languages and Tools:
